@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SA44</string>
+    <string-array name="names">
+        <item>Denis</item>
+        <item>Denis1</item>
+        <item>Denis2</item>
+        <item>Denis3</item>
+        <item>Denis4</item>
+        <item>Denis5</item>
+        <item>Denis6</item>
+        <item>Denis7</item>
+        <item>Denis8</item>
+        <item>Denis9</item>
+        <item>Denis10</item>
+        <item>Denis11</item>
+        <item>Denis12</item>
+        <item>Denis13</item>
+        <item>Denis14</item>
+        <item>Denis15</item>
+        <item>Denis16</item>
+        <item>Denis17</item>
+        <item>Denis18</item>
+        <item>Denis19</item>
+        <item>Denis20</item>
+        <item>Denis21</item>
+        <item>Denis22</item>
+        <item>Denis23</item>
+        <item>Denis24</item>
+        <item>Denis25</item>
+        <item>Denis26</item>
+        <item>Denis27</item>
+        <item>Denis28</item>
+        <item>Denis29</item>
+        <item>Denis30</item>
+        <item>Denis31</item>
+        <item>Denis32</item>
+        <item>Denis33</item>
+        <item>Denis34</item>
+    </string-array>
+</resources>
